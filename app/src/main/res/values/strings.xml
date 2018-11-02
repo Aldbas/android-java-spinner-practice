@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="button">Button</string>
+    <string name="text1">Text1</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string-array name = "breed_array">
+                <item>Select Breed</item>
+                <item>Halfers</item>
+                <item>Slave</item>
+                <item>Goat </item>
+                <item>Dog Dog</item>
+                <item>Bitch</item>
+    </string-array>
+</resources>
